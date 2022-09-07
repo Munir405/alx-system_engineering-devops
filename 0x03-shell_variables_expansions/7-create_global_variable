@@ -1,1 +1,2 @@
-7-creat_global_variables
+#!/bin/bash
+export BEST="School"
