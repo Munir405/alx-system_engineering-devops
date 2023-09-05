@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /dev/stdin | tr -d 'c' | tr -d 'C'
+cat /dev/stdin | tr -d 'C' | tr -d 'c'
